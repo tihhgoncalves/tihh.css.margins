@@ -9,10 +9,10 @@
 
 Para utilizar sem baixar os arquivs (direto de um CDN), utilize o script abaixo:
 
-
+```css
     <!-- tihh.css.margins -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tihhgoncalves/tihh.css.margins@master/dist/margins.css">
-
+```
 
 
 
